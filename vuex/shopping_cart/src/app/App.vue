@@ -14,8 +14,8 @@
 </template>
 
 <script>
-import CartList from './components/cart/CartList';
-import ProductList from './components/product/ProductList';
+import CartList from './components/cart/CartList.vue';
+import ProductList from './components/product/ProductList.vue';
 
 export default {
   name: 'App',
